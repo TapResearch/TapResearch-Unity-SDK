@@ -1,7 +1,11 @@
 # TapResearch-Unity-SDK
-TapResearch Unity SDK v1.1.0
+TapResearch Unity SDK v1.1.1
 
 For additional information, please see the [TapResearch Unity SDK integration guide](https://www.tapresearch.com/docs/unity-integration-guide).
+
+## v1.1.1
+- iOS v1.2.1
+- Android v1.2.1 -- TRSurveyActivity now inherits from Activity. 
 
 ## v1.1.0
 - iOS v1.2.1
