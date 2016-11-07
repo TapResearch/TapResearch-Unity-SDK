@@ -1,7 +1,13 @@
 # TapResearch-Unity-SDK
-TapResearch Unity SDK v1.1.1
+TapResearch Unity SDK v1.1.2
 
 For additional information, please see the [TapResearch Unity SDK integration guide](https://www.tapresearch.com/docs/unity-integration-guide).
+
+## v1.1.2
+- iOS v1.2.1
+- Android v1.2.3
+  - Bug Fixes
+  - New activity definition. See the unity integration guide for details. 
 
 ## v1.1.1
 - iOS v1.2.1
