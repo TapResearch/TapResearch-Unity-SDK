@@ -5,7 +5,7 @@
 - Android v1.3.2
 - **New Features:**
   - Multi currency support please note that the rewards callback signature was changed to  
-  ~~~~
+~~~~c-sharp
   private void OnDidReceiveReward(int quantity, string transactionIdentifier, string currencyName, int payoutEvent)
   {
       // Handle reward logic here
