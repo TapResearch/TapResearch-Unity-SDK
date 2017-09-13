@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.3.3
+- iOS can't show survey when passing an offer identifier
+
 ## v1.3.2
 - iOS v1.3.1
 - Android v1.3.2
