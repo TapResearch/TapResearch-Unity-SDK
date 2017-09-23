@@ -1,4 +1,16 @@
 # Changelog
+## v1.3.4
+- iOS v1.3.4
+- Android v1.3.3
+- **New Features**
+- Adding the offer identifier to the rewards callback, please note the callback signature was chage to 
+~~~~c-sharp
+  private void OnDidReceiveReward(int quantity, string transactionIdentifier, string currencyName, int payoutEvent, string offerIdentifier)
+  {
+      // Handle reward logic here
+  }
+~~~~
+- Bug Fixes
 
 ## v1.3.3
 - iOS can't show survey when passing an offer identifier
@@ -6,7 +18,7 @@
 ## v1.3.2
 - iOS v1.3.1
 - Android v1.3.2
-- **New Features:**
+- **New Features**
   - Multi currency support please note that the rewards callback signature was changed to  
 ~~~~c-sharp
   private void OnDidReceiveReward(int quantity, string transactionIdentifier, string currencyName, int payoutEvent)
