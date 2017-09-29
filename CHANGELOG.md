@@ -1,4 +1,8 @@
 # Changelog
+
+## v1.3.5
+- Android v1.3.4
+
 ## v1.3.4
 - iOS v1.3.4
 - Android v1.3.3
