@@ -1,13 +1,23 @@
 # Changelog
 
+## v1.3.7
+- Android v1.3.6
+- iOS v1.3.7
+
+## v1.3.6
+- Android v1.3.5
+- iOS v1.3.6
+
 ## v1.3.5
 - Android v1.3.4
 
 ## v1.3.4
 - iOS v1.3.4
 - Android v1.3.3
-- **New Features**
-- Adding the offer identifier to the rewards callback, please note the callback signature was chage to 
+
+**New Features**  
+
+- Adding the offer identifier to the rewards callback, please note the callback signature was chage to
 ~~~~c-sharp
   private void OnDidReceiveReward(int quantity, string transactionIdentifier, string currencyName, int payoutEvent, string offerIdentifier)
   {
