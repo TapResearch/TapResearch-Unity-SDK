@@ -1,4 +1,6 @@
 # Changelog
+## v1.3.8
+- Android v1.3.8
 
 ## v1.3.7
 - Android v1.3.6
