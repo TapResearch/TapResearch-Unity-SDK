@@ -1,4 +1,20 @@
 # Changelog
+## v1.3.9
+* Android v1.4.0
+* iOS v1.3.9
+* Unity 2017 support
+* New methods
+  - `TapResearch.SetNavigationBarText ("<Navigation title text")`
+  -	`TapResearch.SetNavigationBarTextColor ("<hex color string e.g #ffffff")`
+  -	`TapResearch.SetNavigationBarColor ("<hex color string e.g #ffffff")`
+* New survey status with placement identifier parameter
+    - `TapResearch.OnSurveyAvailableWithPlacement`
+    - `TapResearch.OnSurveyNotAvailableWithPlacement`
+    - `TapResearch.OnSurveyModalOpenedWithPlacement`
+    - `TapResearch.OnSurveyModalDismissedWithPlacement`
+
+
+
 ## v1.3.8
 - Android v1.3.8
 
