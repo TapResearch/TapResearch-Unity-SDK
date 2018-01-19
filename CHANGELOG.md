@@ -1,4 +1,9 @@
 # Changelog
+
+## v1.4.0
+* New method `bool IsSurveyAvailableForIdentifier(const char *offerIdentifier)`
+* Fix android app lifecycle issues
+
 ## v1.3.9
 * Android v1.4.0
 * iOS v1.3.9
