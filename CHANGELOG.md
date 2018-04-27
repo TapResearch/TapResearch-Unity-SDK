@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.0.0
+* Introducing TRPlacement to evaluate availability and to display the survey wall
+* Introducing TRReward to handle in app rewards
+
 ## v1.4.0
 * New method `bool IsSurveyAvailableForIdentifier(const char *offerIdentifier)`
 * Fix android app lifecycle issues
