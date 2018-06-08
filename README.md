@@ -10,6 +10,6 @@ For additional information, please see the [TapResearch Unity SDK integration gu
 
 [TapResearch iOS SDK](https://github.com/TapResearch/TapResearch-iOS-SDK)  
 
-[TapResearch React Native SDK integration guide](https://www.tapresearch.com/docs/react_native_integration_guide)
+[TapResearch React Native SDK integration guide](https://www.tapresearch.com/docs/react-native-integration-guide)
 
-[TapResearch JavaScript SDK integration guide](https://www.tapresearch.com/docs/javascript_integration_guide)
+[TapResearch JavaScript SDK integration guide](https://www.tapresearch.com/docs/javascript-integration-guide)
