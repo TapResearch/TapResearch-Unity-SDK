@@ -1,4 +1,6 @@
 # Changelog
+# v2.0.2
+* Support Pure Spectrum surveys
 
 ## v2.0.1
 * Send a placement response when the SDK isn't ready
