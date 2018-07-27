@@ -1,4 +1,7 @@
 # Changelog
+# v2.0.3
+* Fix the callbacks status
+
 # v2.0.2
 * Support Pure Spectrum surveys
 
