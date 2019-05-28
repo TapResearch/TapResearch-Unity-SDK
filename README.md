@@ -1,6 +1,6 @@
 # TapResearch-Unity-SDK
 ---
-TapResearch Unity SDK v2.0.3
+TapResearch Unity SDK v2.0.4
 
 For additional information, please see the [TapResearch Unity SDK integration guide](https://www.tapresearch.com/docs/unity_integration_guide).
 

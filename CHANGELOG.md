@@ -1,4 +1,11 @@
 # Changelog
+# v2.0.4
+* More survey availablity
+* Fix - Android 4.+ back button crashes
+* Fix - Android crash when closing the unity app
+* Fix - iOS initialize on Restart
+* Fix - Android fix in app rewards
+
 # v2.0.3
 * Fix the callbacks status
 
