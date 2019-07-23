@@ -1,4 +1,8 @@
 # Changelog
+
+# v2.0.5
+* Android - Support non secure urls 
+
 # v2.0.4
 * More survey availablity
 * Fix - Android 4.+ back button crashes
