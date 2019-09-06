@@ -1,5 +1,8 @@
 # Changelog
 
+# v2.0.6
+* Fix - iOS post processing scripts not executing on Unity2018 
+
 # v2.0.5
 * Android - Support non secure urls 
 
