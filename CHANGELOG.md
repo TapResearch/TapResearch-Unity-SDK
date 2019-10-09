@@ -1,5 +1,8 @@
 # Changelog
 
+# v2.0.7
+* iOS 13 full screen window support
+* Fix session identifier cookie storage
 # v2.0.6
 * Fix - iOS post processing scripts not executing on Unity2018 
 
