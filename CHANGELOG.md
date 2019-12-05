@@ -1,5 +1,8 @@
 # Changelog
 
+# v2.0.8
+* Fix - Android secure url handling fix 
+
 # v2.0.7
 * iOS 13 full screen window support
 * Fix session identifier cookie storage
