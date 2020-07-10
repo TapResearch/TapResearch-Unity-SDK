@@ -1,5 +1,10 @@
 # Changelog
 
+# v2.1.1 (Not backward compatible)
+* Moving all the classes to TapResearch namespace
+* Managing all the dependencies with [External Dependency Manager for Unity](https://github.com/googlesamples/unity-jar-resolver)
+* Introducing Custom Parameters
+
 # v2.0.8
 * Fix - Android secure url handling fix 
 
