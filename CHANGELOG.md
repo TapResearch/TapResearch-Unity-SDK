@@ -1,5 +1,9 @@
 # Changelog
 
+# v2.1.2
+* Unity 2019 iOS compatibility fix
+* Upgrade the iOS SDK to v2.0.11
+
 # v2.1.1 (Not backward compatible)
 * Moving all the classes to TapResearch namespace
 * Managing all the dependencies with [External Dependency Manager for Unity](https://github.com/googlesamples/unity-jar-resolver)
