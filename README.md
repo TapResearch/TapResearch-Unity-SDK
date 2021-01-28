@@ -1,14 +1,13 @@
 # TapResearch-Unity-SDK
 ---
 
-For additional information, please see the [TapResearch Unity SDK integration guide](https://www.tapresearch.com/docs/unity_integration_guide).
+For additional information, please see the [TapResearch Unity SDK integration guide](https://supply-docs.tapresearch.com/docs/unity-integration).
 
 ## Other platforms:
 
-[TapResearch Android SDK](https://github.com/TapResearch/TapResearch-Android-SDK)  
+[TapResearch Android SDK](https://supply-docs.tapresearch.com/docs/android-integration)  
 
-[TapResearch iOS SDK](https://github.com/TapResearch/TapResearch-iOS-SDK)  
+[TapResearch iOS SDK](https://supply-docs.tapresearch.com/docs/ios-integration)  
 
-[TapResearch React Native SDK integration guide](https://www.tapresearch.com/docs/react-native-integration-guide)
+[TapResearch React Native SDK integration guide](https://supply-docs.tapresearch.com/docs/react-integration)
 
-[TapResearch JavaScript SDK integration guide](https://www.tapresearch.com/docs/javascript-integration-guide)
