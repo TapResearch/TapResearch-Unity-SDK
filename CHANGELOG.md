@@ -1,5 +1,10 @@
 # Changelog
 
+# v2.1.3
+* Upgrade the Android SDK to v2.0.15
+* Upgrade the iOS SDK to v2.0.15
+* Update postBuildProcess for iOS to update Podfile for v2.0.15 of SDK.
+
 # v2.1.2
 * Unity 2019 iOS compatibility fix
 * Upgrade the iOS SDK to v2.0.11
@@ -15,6 +20,7 @@
 # v2.0.7
 * iOS 13 full screen window support
 * Fix session identifier cookie storage
+
 # v2.0.6
 * Fix - iOS post processing scripts not executing on Unity2018 
 
