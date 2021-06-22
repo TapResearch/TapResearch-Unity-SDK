@@ -1,5 +1,10 @@
 # Changelog
 
+# v2.2.0
+* Upgrade the Android SDK to v2.2.0.
+* Update the iOS SDK cocoapod version to v2.0.20.
+* Update bridges to include array-based reward callback.
+
 # v2.1.3
 * Upgrade the Android SDK to v2.0.15
 * Upgrade the iOS SDK to v2.0.15
