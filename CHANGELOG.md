@@ -1,5 +1,11 @@
 # Changelog
 
+# v2.3.0
+* Upgrade the Android SDK to v2.3.0.
+* Update the iOS SDK cocoapod version to v2.3.0u.
+* Change bridges for when custom parameters are passed to the SDK.
+* Change bridges to handle new placement callbacks.
+
 # v2.2.1
 * Upgrade the Android SDK to v2.2.1.
 * Update the iOS SDK cocoapod version to v2.0.21.
@@ -24,17 +30,17 @@
 * Introducing Custom Parameters
 
 # v2.0.8
-* Fix - Android secure url handling fix 
+* Fix - Android secure url handling fix
 
 # v2.0.7
 * iOS 13 full screen window support
 * Fix session identifier cookie storage
 
 # v2.0.6
-* Fix - iOS post processing scripts not executing on Unity2018 
+* Fix - iOS post processing scripts not executing on Unity2018
 
 # v2.0.5
-* Android - Support non secure urls 
+* Android - Support non secure urls
 
 # v2.0.4
 * More survey availablity
@@ -95,7 +101,7 @@
 - iOS v1.3.4
 - Android v1.3.3
 
-**New Features**  
+**New Features**
 
 - Adding the offer identifier to the rewards callback, please note the callback signature was chage to
 ~~~~c-sharp
@@ -113,7 +119,7 @@
 - iOS v1.3.1
 - Android v1.3.2
 - **New Features**
-  - Multi currency support please note that the rewards callback signature was changed to  
+  - Multi currency support please note that the rewards callback signature was changed to
 ~~~~c-sharp
   private void OnDidReceiveReward(int quantity, string transactionIdentifier, string currencyName, int payoutEvent)
   {
@@ -121,7 +127,7 @@
   }
 ~~~~
   - Multi offer support
-  - Surveys availability callbacks  
+  - Surveys availability callbacks
 
 ## v1.1.2
 ---
