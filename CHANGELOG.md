@@ -1,5 +1,9 @@
 # Changelog
 
+# v2.3.1
+* Upgrade the Android SDK to v2.3.1.
+* Update the iOS SDK cocoapod version to v2.3.1u.
+
 # v2.3.0
 * Upgrade the Android SDK to v2.3.0.
 * Update the iOS SDK cocoapod version to v2.3.0u.
