@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.4.2
+* Fix for potential missed reward.
+* Fix for offer staying unavailable after showing it.
+* Navigation bar styling fix.
+* Expose version in Unity bridge.
+
 # v2.4.1
 * Improved stability.
 * Removed usage of deprecated iOS functions.
