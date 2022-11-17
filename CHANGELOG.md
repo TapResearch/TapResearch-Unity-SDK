@@ -2,7 +2,7 @@
 
 ## v2.5.0
 * Embedded frameworks added for UnityPackage.
-* Removed reliance on Google EDM/Cocoapods.
+* Removed reliance on Cocoapods for iOS.
 * Upgrade the Android SDK to v2.5.4.
 * Upgrade the iOS SDK to v2.5.4.
 
