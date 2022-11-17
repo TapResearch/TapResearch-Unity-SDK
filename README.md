@@ -1,4 +1,4 @@
-# TapResearch-Unity-SDK v2.4.2
+# TapResearch-Unity-SDK v2.5.0
 ---
 
 For additional information, please see the [TapResearch Unity SDK integration guide](https://supply-docs.tapresearch.com/docs/unity-integration).

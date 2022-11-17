@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.5.0
+* Embedded frameworks added for UnityPackage.
+* Removed reliance on Cocoapods for iOS.
+* Upgrade the Android SDK to v2.5.4.
+* Upgrade the iOS SDK to v2.5.4.
+
 ## v2.4.2
 * Fix for potential missed reward.
 * Fix for offer staying unavailable after showing it.
