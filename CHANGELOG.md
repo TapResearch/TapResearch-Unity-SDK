@@ -1,5 +1,10 @@
 # Changelog
 
+
+## v2.5.1
+* Replaced directory copy with replace.
+* Corrected some bridge-to-c# message names.
+
 ## v2.5.0
 * Embedded frameworks added for UnityPackage.
 * Removed reliance on Cocoapods for iOS.
