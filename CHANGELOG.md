@@ -1,5 +1,7 @@
 # Changelog
 
+## v2.5.2
+* Upgrade the iOS SDK to v2.5.5.
 
 ## v2.5.1
 * Replaced directory copy with replace.
