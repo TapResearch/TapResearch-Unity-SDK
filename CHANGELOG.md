@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.5.3
+* Upgrade the Android SDK to v2.5.5.
+* Upgrade the iOS SDK to v.2.5.6.
+* Fixed an error that prevented Google rewards from returning to C#.
+
 ## v2.5.2
 * Upgrade the iOS SDK to v2.5.5.
 
