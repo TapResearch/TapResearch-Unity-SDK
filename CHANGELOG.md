@@ -2,6 +2,7 @@
 
 ## v2.5.5
 * Upgrade the iOS SDK to v2.5.8.
+* Upgrade the Android SDK to v2.5.7.
 
 ## v2.5.4
 * Upgrade the iOS SDK to v2.5.7.

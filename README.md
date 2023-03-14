@@ -2,7 +2,7 @@
 ---
 
 The TapResearchSDK v2.5.5 Unity package contains:
-* Android SDK v2.5.5
+* Android SDK v2.5.7
 * Android Unity Bridge v2.5.4
 * iOS SDK 2.5.8
 
