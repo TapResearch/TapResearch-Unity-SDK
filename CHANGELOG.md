@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.5.6
+* Upgrade the Android SDK to v2.5.8.
+
 ## v2.5.5
 * Upgrade the iOS SDK to v2.5.8.
 * Upgrade the Android SDK to v2.5.7.
