@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.5.8
+Remove erroneous setting of iOS deployment version from BuildPostprocessoriOS.cs.
+
 ## v2.5.7
 * Removing accidental EDM inclusions.
 
