@@ -1,7 +1,17 @@
 # Changelog
 
+## v3.0.0-beta1
+### This is a breaking change!
+* Upgrade the Android SDK to v3.0.0-beta1.
+* Upgrade the iOS SDK to v3.0.0-beta2.
+* SDK rewritten for stability, simplicity, and performance.
+* Added ability for some realtime feature updates and bug fixes.
+* Partial screen interstitials and banners.
+* Removed the need to store placement objects.
+* Improved error reporting.
+
 ## v2.5.8
-Remove erroneous setting of iOS deployment version from BuildPostprocessoriOS.cs.
+* Remove erroneous setting of iOS deployment version from BuildPostprocessoriOS.cs.
 
 ## v2.5.7
 * Removing accidental EDM inclusions.
