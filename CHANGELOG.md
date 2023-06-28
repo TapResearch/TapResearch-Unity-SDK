@@ -1,5 +1,8 @@
 # Changelog
 
+## v3.0.0-beta2
+* Fixed JVM and Java support for Android.
+
 ## v3.0.0-beta1
 ### This is a breaking change!
 * Upgrade the Android SDK to v3.0.0-beta1.
