@@ -1,5 +1,8 @@
 # Changelog
 
+## v3.0.0-beta3
+- Update iOS SDK to dismiss a banner when tapping outside the banner.
+
 ## v3.0.0-beta2
 * Fixed JVM and Java support for Android.
 
