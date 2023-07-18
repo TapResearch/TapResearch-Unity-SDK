@@ -1,5 +1,8 @@
 # Changelog
 
+## v3.0.0-beta4
+- Update Android SDK and bridge.
+
 ## v3.0.0-beta3
 - Update iOS SDK to dismiss a banner when tapping outside the banner.
 
