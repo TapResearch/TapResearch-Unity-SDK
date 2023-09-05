@@ -1,5 +1,10 @@
 # Changelog
 
+## v3.1.0-beta1
+- Update Android SDK and bridge to v3.1.0-beta5.
+- Update iOS SDK to v3.1.0-beta2.
+- Updated native and C# files to accomodate native SDK changes.
+
 ## v3.0.0-beta4
 - Update Android SDK and bridge.
 
