@@ -1,5 +1,8 @@
 # Changelog
 
+## v3.1.0-beta2
+- Rebuild package to include all iOS framework files.
+
 ## v3.1.0-beta1
 - Update Android SDK and bridge to v3.1.0-beta5.
 - Update iOS SDK to v3.1.0-beta2.
