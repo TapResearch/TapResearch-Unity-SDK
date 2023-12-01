@@ -1,5 +1,10 @@
 # Changelog
 
+## v3.1.0-beta3
+- Update Android SDK to v3.1.0-beta12 and bridge to v3.1.0-beta8.
+- Update iOS SDK to v3.1.0-beta5.
+- Updated native and C# files to accomodate native SDK changes.
+
 ## v3.1.0-beta2
 - Rebuild package to include all iOS framework files.
 
