@@ -32,6 +32,11 @@
 * Removed the need to store placement objects.
 * Improved error reporting.
 
+## v2.5.9
+* Update to support offers
+* Android SDK v2.5.11
+* iOS SDK 2.5.9
+
 ## v2.5.8
 * Remove erroneous setting of iOS deployment version from BuildPostprocessoriOS.cs.
 
