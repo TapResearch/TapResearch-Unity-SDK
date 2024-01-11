@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.1.0-beta4
+- Update native Android SDK v3.1.1-beta3.
+- Update native iOS SDK 3.1.0-beta8.
+
 ## v3.1.0-beta3
 - Update Android SDK to v3.1.0-beta12 and bridge to v3.1.0-beta8.
 - Update iOS SDK to v3.1.0-beta5.
