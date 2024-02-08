@@ -1,5 +1,10 @@
 # Changelog
 
+## v3.2.1-beta1
+- Update native Android SDK to 3.2.2.
+- Update native Android bridge to 3.2.1-beta.
+- Update native iOS SDK to 3.2.3.
+
 ## v3.1.0-beta4
 - Update native Android SDK v3.1.1-beta3.
 - Update native iOS SDK 3.1.0-beta8.
