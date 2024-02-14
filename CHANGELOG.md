@@ -41,6 +41,11 @@
 * Removed the need to store placement objects.
 * Improved error reporting.
 
+## v2.5.10
+* Improved offers support.
+* Android SDK 2.5.12
+* iOS SDK 2.5.10
+
 ## v2.5.9
 * Update to support offers
 * Android SDK v2.5.11
