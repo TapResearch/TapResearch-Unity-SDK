@@ -12,7 +12,7 @@
 ## v3.1.0-beta3
 - Update Android SDK to v3.1.0-beta12 and bridge to v3.1.0-beta8.
 - Update iOS SDK to v3.1.0-beta5.
-- Updated native and C# files to accomodate native SDK changes.
+- Updated native and C# files to accommodate native SDK changes.
 
 ## v3.1.0-beta2
 - Rebuild package to include all iOS framework files.
@@ -20,7 +20,7 @@
 ## v3.1.0-beta1
 - Update Android SDK and bridge to v3.1.0-beta5.
 - Update iOS SDK to v3.1.0-beta2.
-- Updated native and C# files to accomodate native SDK changes.
+- Updated native and C# files to accommodate native SDK changes.
 
 ## v3.0.0-beta4
 - Update Android SDK and bridge.
@@ -40,6 +40,10 @@
 * Partial screen interstitials and banners.
 * Removed the need to store placement objects.
 * Improved error reporting.
+
+## v2.5.11
+* Fixed an issue with rewarding on SDK startup.
+* Android Bridge update to 2.5.5
 
 ## v2.5.10
 * Improved offers support.
