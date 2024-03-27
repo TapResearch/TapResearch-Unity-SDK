@@ -41,6 +41,10 @@
 * Removed the need to store placement objects.
 * Improved error reporting.
 
+## v2.5.12
+* Update reward collection listener setter
+* Android Bridge update to 2.5.6
+
 ## v2.5.11
 * Fixed an issue with rewarding on SDK startup.
 * Android Bridge update to 2.5.5

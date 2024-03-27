@@ -1,9 +1,9 @@
-# TapResearch-Unity-SDK v2.5.10
+# TapResearch-Unity-SDK v2.5.12
 ---
 
-The TapResearchSDK v2.5.11 Unity package contains:
+The TapResearchSDK v2.5.12 Unity package contains:
 * Android SDK 2.5.12
-* Android bridge to 2.5.5
+* Android bridge to 2.5.6
 * iOS SDK 2.5.10
 
 For additional information, please see the [TapResearch Unity SDK integration guide](https://supply-docs.tapresearch.com/docs/unity-integration).
