@@ -1,5 +1,7 @@
 # Changelog
 
+> <span style="background-color: #FFFF00"> **_NOTE:_** A 2.5.13 Legacy SDK update is available as a signed build with a PrivacyInfo.xcprivacy file.</span>
+
 ## v3.2.1-beta1
 - Update native Android SDK to 3.2.2.
 - Update native Android bridge to 3.2.1-beta.
@@ -40,6 +42,9 @@
 * Partial screen interstitials and banners.
 * Removed the need to store placement objects.
 * Improved error reporting.
+
+## v2.5.13
+* iOS framework updated to 2.5.11 with PrivacyInfo.xcprivacy file and code-signed.
 
 ## v2.5.12
 * Update reward collection listener setter
