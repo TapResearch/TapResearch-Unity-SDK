@@ -1,6 +1,6 @@
 # Changelog
 
-> <span style="background-color: #FFFF00"> **_NOTE:_** A 2.5.13 Legacy SDK update is available as a signed build with a PrivacyInfo.xcprivacy file.</span>
+> <span style="background-color: #FFFF00"> **_NOTE:_** A 2.5.14 Legacy SDK update is available as a signed build with a PrivacyInfo.xcprivacy file.</span>
 
 ## v3.2.1-beta1
 - Update native Android SDK to 3.2.2.
@@ -42,6 +42,13 @@
 * Partial screen interstitials and banners.
 * Removed the need to store placement objects.
 * Improved error reporting.
+
+## v2.5.14
+* Android changes:
+ - Force portrait-mode in Survey Wall via manifest XML not via code - fixes a tablet issue.
+ - Remove unnecessary PlacementUnavailable callback after the Survey Wall has been closed.
+ - Handle edge-case if SDK is initialized more than once at the same time.
+ - Update SDK version string to 2.5.14
 
 ## v2.5.13
 * iOS framework updated to 2.5.11 with PrivacyInfo.xcprivacy file and code-signed.
