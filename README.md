@@ -1,8 +1,8 @@
-# TapResearch-Unity-SDK v2.5.14
+# TapResearch-Unity-SDK v2.5.15
 ---
 
-The TapResearchSDK v2.5.14 Unity package contains:
-* Android SDK 2.5.14
+The TapResearchSDK v2.5.15 Unity package contains:
+* Android SDK 2.5.15
 * Android bridge to 2.5.14
 * iOS SDK 2.5.11
 

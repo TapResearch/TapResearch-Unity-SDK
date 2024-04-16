@@ -43,6 +43,11 @@
 * Removed the need to store placement objects.
 * Improved error reporting.
 
+## v2.5.15
+* Android changes:
+- Undo force portrait mode
+- Update SDK version string to 2.5.15
+
 ## v2.5.14
 * Android changes:
  - Force portrait-mode in Survey Wall via manifest XML not via code - fixes a tablet issue.
