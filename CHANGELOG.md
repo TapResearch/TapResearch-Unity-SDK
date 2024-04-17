@@ -1,6 +1,11 @@
 # Changelog
 
-> <span style="background-color: #FFFF00"> **_NOTE:_** A 2.5.14 Legacy SDK update is available as a signed build with a PrivacyInfo.xcprivacy file.</span>
+> <span style="background-color: #FFFF00"> **_NOTE:_** A 3.2.1-beta2 SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
+
+> <span style="background-color: #FFFF00"> **_NOTE:_** A 2.5.14 Legacy SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
+
+## v3.2.1-beta2
+- Update native iOS SDK to 3.2.4.
 
 ## v3.2.1-beta1
 - Update native Android SDK to 3.2.2.
