@@ -2,7 +2,7 @@
 
 > <span style="background-color: #FFFF00"> **_NOTE:_** A 3.2.1-beta2 SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
 
-> <span style="background-color: #FFFF00"> **_NOTE:_** A 2.5.14 Legacy SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
+> <span style="background-color: #FFFF00"> **_NOTE:_** 2.5.16 Legacy SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
 
 ## v3.2.1-beta2
 - Update native iOS SDK to 3.2.4.
@@ -47,6 +47,10 @@
 * Partial screen interstitials and banners.
 * Removed the need to store placement objects.
 * Improved error reporting.
+
+## v2.5.16
+* Update Android SDK to 2.5.16 with orientation fix
+* Update iOS SDK to 2.5.12 with orientation fix
 
 ## v2.5.15
 * Android changes:
