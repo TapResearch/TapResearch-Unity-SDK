@@ -1,9 +1,21 @@
 # Changelog
 
-> <span style="background-color: #FFFF00"> **_NOTE:_** A 3.2.1-beta2 SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
+> <span style="background-color: #FFFF00"> **_NOTE:_** A 3.2.3 SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
 
 > <span style="background-color: #FFFF00"> **_NOTE:_** 2.5.16 Legacy SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
 
+## v3.2.3
+* Update native iOS SDK to 3.2.5
+  - Code-signed iOS framework
+  - Added privacy XML to iOS framework
+  - iOS banner display fix
+  - Additional anti-fraud measures
+  - Quick questions response callback
+  - Added support for clear previous attributes
+* Android
+  - Updated to Android 3.2.8 native SDK
+  - Added support for clear previous attributes
+  
 ## v3.2.1-beta2
 - Update native iOS SDK to 3.2.4.
 
