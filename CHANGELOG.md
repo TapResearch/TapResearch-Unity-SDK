@@ -60,6 +60,9 @@
 * Removed the need to store placement objects.
 * Improved error reporting.
 
+## v2.5.17
+* Update iOS SDK to 2.5.13 with orientation fix
+
 ## v2.5.16
 * Update Android SDK to 2.5.16 with orientation fix
 * Update iOS SDK to 2.5.12 with orientation fix
