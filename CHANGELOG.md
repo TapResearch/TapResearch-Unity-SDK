@@ -60,6 +60,9 @@
 * Removed the need to store placement objects.
 * Improved error reporting.
 
+## v2.5.18
+* iOS: No longer sending placement unavailable message when placement is being displayed.
+
 ## v2.5.17
 * Update iOS SDK to 2.5.13 with orientation fix
 
