@@ -1,8 +1,11 @@
 # Changelog
 
-> <span style="background-color: #FFFF00"> **_NOTE:_** A 3.2.3 SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
+> <span style="background-color: #FFFF00"> **_NOTE:_** A 3.2.4 SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
 
-> <span style="background-color: #FFFF00"> **_NOTE:_** 2.5.16 Legacy SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
+> <span style="background-color: #FFFF00"> **_NOTE:_** 2.5.18 Legacy SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
+
+## v3.2.4
+* Send correct error packet from iOS bridge to C#.
 
 ## v3.2.3
 * Update native iOS SDK to 3.2.5
