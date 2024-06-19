@@ -4,9 +4,17 @@
 
 > <span style="background-color: #FFFF00"> **_NOTE:_** 2.5.18 Legacy SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
 
+## v3.2.6
+* Update Android SDK to 3.3.0.
+  - Handle rare error conditions gracefully, such as the unforeseen inability to create new WebView object
+  - More logging to be able to diagnose and troubleshoot mentioned conditions
+  - Add stack trace and memory snapshot to remote logger
+  - Use 'default' WebView caching to improve loadUrl performance
+  - Ability for SDK to self-heal if it encounters run-time issues
+
 ## v3.2.5
 * Update iOS SDK to 3.2.6.
-* Updste Android SDK to 3.3.0-alpha01.
+* Update Android SDK to 3.3.0-alpha01.
 * Update included example scene and scripts.
 
 ## v3.2.4

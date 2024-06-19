@@ -1,8 +1,8 @@
-# TapResearch-Unity-SDK v3.2.5
+# TapResearch-Unity-SDK v3.2.6
 ---
 
-The TapResearchSDK v3.2.5 Unity package contains:
-* Android SDK 3.3.0-alpha01
+The TapResearchSDK v3.2.6 Unity package contains:
+* Android SDK 3.3.0
 * Android bridge 3.2.8
 * iOS SDK 3.2.6
 
