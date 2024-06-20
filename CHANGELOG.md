@@ -6,11 +6,11 @@
 
 ## v3.2.6
 * Update Android SDK to 3.3.0.
+  - Ability for SDK to self-heal
   - Handle rare error conditions gracefully, such as the unforeseen inability to create new WebView object
   - More logging to be able to diagnose and troubleshoot mentioned conditions
   - Add stack trace and memory snapshot to remote logger
   - Use 'default' WebView caching to improve loadUrl performance
-  - Ability for SDK to self-heal if it encounters run-time issues
 
 ## v3.2.5
 * Update iOS SDK to 3.2.6.
