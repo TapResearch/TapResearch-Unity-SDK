@@ -4,6 +4,12 @@
 
 > <span style="background-color: #FFFF00"> **_NOTE:_** 2.5.18 Legacy SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
 
+## v3.4.0
+* Update iOS SDK to 3.4.1
+* Update Android SDK to 3.4.0
+* Update Android bridge to 3.4.0
+* Updated included example for Survey Wall Preview.
+
 ## v3.2.8
 * Update iOS SDK to 3.2.10.
 
