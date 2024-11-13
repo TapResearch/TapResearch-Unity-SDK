@@ -1,10 +1,10 @@
-# TapResearch-Unity-SDK v3.4.1
+# TapResearch-Unity-SDK v2.5.19
 ---
 
-The TapResearchSDK v3.4.1 Unity package contains:
-* Android SDK 3.4.0
-* Android bridge 3.4.0
-* iOS SDK 3.4.2
+The TapResearchSDK v2.5.19 Unity package contains:
+* Android SDK v2.5.17
+* Android bridge v2.5.14
+* iOS SDK v2.5.14
 
 For additional information, please see the [TapResearch Unity SDK integration guide](https://supply-docs.tapresearch.com/docs/unity-integration).
 
@@ -15,4 +15,3 @@ For additional information, please see the [TapResearch Unity SDK integration gu
 [TapResearch iOS SDK](https://supply-docs.tapresearch.com/docs/ios-integration)  
 
 [TapResearch React Native SDK integration guide](https://supply-docs.tapresearch.com/docs/react-integration)
-
