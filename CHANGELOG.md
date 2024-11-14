@@ -90,6 +90,11 @@
 * Removed the need to store placement objects.
 * Improved error reporting.
 
+## v2.5.19
+* Upgrade the iOS SDK to v2.5.14.
+* Upgrade the Android SDK to v2.5.17.
+* SDKs have improved internal logging.
+
 ## v2.5.18
 * iOS: No longer sending placement unavailable message when placement is being displayed.
 
