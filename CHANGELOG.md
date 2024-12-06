@@ -1,8 +1,19 @@
 # Changelog
 
-> <span style="background-color: #FFFF00"> **_NOTE:_** A 3.2.4 SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
+> <span style="background-color: #FFFF00"> **_NOTE:_** A 3.2.4 and later SDKs are available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
 
-> <span style="background-color: #FFFF00"> **_NOTE:_** 2.5.18 Legacy SDK update is available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
+> <span style="background-color: #FFFF00"> **_NOTE:_** 2.5.18 and later Legacy 2.5.x SDKs are available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
+
+## v3.5.0
+* Update iOS SDK to 3.5.1.
+  - Added new callback setters for rewards and Quick Questions.
+  - Updated handling of some malformed survey URLs.
+  - Improved internal logging.
+* Update Android SDK to 3.5.0 with bridge 3.5.0.
+  - Added new callback setters for rewards and Quick Questions.
+  - Fixed parse bug when errors are reported.
+  - Improved internal logging.
+* Update included example to show reward and Quick Questions data callbacks setters.
 
 ## v3.4.1
 * Add Survey Wall Preview.
