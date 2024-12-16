@@ -1,10 +1,10 @@
-# TapResearch-Unity-SDK v3.5.0
+# TapResearch-Unity-SDK v3.5.1
 ---
 
-The TapResearchSDK v3.5.0 Unity package contains:
+The TapResearchSDK v3.5.1 Unity package contains:
 * Android SDK v3.5.0
 * Android bridge v3.5.0
-* iOS SDK v3.5.1
+* iOS SDK v3.5.2
 
 For additional information, please see the [TapResearch Unity SDK integration guide](https://supply-docs.tapresearch.com/docs/unity-integration).
 
