@@ -4,6 +4,10 @@
 
 > <span style="background-color: #FFFF00"> **_NOTE:_** 2.5.18 and later Legacy 2.5.x SDKs are available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
 
+## v3.5.1
+* Update iOS SDK to 3.5.2.
+  - Surveys callback issue fixed.
+
 ## v3.5.0
 * Update iOS SDK to 3.5.1.
   - Added new callback setters for rewards and Quick Questions.
