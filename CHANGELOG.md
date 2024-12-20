@@ -4,6 +4,11 @@
 
 > <span style="background-color: #FFFF00"> **_NOTE:_** 2.5.18 and later Legacy 2.5.x SDKs are available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
 
+## v3.5.2
+* Update Android SDK to 3.5.1.
+  - Fixed UI insets issue in Survey Wall on devices running Android 15 (api 35)
+  - Handle onBackPressed issue when enableOnBackInvokedCallback is true on api 33+
+
 ## v3.5.1
 * Update iOS SDK to 3.5.2.
   - Surveys callback issue fixed.
