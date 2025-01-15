@@ -90,6 +90,11 @@
 * Removed the need to store placement objects.
 * Improved error reporting.
 
+## v2.5.20
+* Upgrade the Android SDK to v2.5.18.
+* Fixed Survey Wall insets cut-off issue for apps targeting Android API 35+ installed on devices running Android 15.
+* Fixed back button issue for apps that set enableOnBackInvokedCallback to true in AndroidManifest.xml on Api 33+.
+
 ## v2.5.19
 * Upgrade the iOS SDK to v2.5.14.
 * Upgrade the Android SDK to v2.5.17.
