@@ -4,6 +4,12 @@
 
 > <span style="background-color: #FFFF00"> **_NOTE:_** 2.5.18 and later Legacy 2.5.x SDKs are available as a code-signed iOS SDK build with a PrivacyInfo.xcprivacy file.</span>
 
+## v3.6.0--rc0
+* Update iOS SDK to v3.6.0--rc1.
+  - Prevent a possible animation crash.
+* Update Android SDK to v3.5.2.
+  - Fixed edge-case crash in Survey Wall onDestroy.
+	
 ## v3.5.2
 * Update Android SDK to 3.5.1.
   - Fixed UI insets issue in Survey Wall on devices running Android 15 (api 35)
