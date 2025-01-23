@@ -10,6 +10,10 @@
 * Update Android SDK to v3.5.2.
   - Fixed edge-case crash in Survey Wall onDestroy.
 	
+## v3.5.3
+* Update Android SDK to v3.5.2.
+  - Fixed edge-case crash in Survey Wall onDestroy.
+	
 ## v3.5.2
 * Update Android SDK to 3.5.1.
   - Fixed UI insets issue in Survey Wall on devices running Android 15 (api 35)
