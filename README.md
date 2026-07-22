@@ -1,10 +1,10 @@
-# TapResearch-Unity-SDK v3.8.0--beta01
+# TapResearch-Unity-SDK v3.8.0--rc0
 ---
 
-The TapResearchSDK v3.8.0--beta01 Unity package contains:
-* Android SDK v3.8.0--beta02
-* Android bridge v3.8.0--beta01
-* iOS SDK v3.8.0--beta02
+The TapResearchSDK v3.8.0--rc0 Unity package contains:
+* Android SDK v3.8.0--rc1
+* Android bridge v3.8.0--rc1
+* iOS SDK v3.8.0--rc0
 
 For additional information, please see the [TapResearch Unity SDK integration guide](https://supply-docs.tapresearch.com/docs/3.x/basic-integration/sdk-integration/unity)
 
